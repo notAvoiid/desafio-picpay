@@ -2,7 +2,7 @@ package igor.abreu.picpay.service;
 
 import igor.abreu.picpay.exceptions.WalletDataAlreadyExistsException;
 import igor.abreu.picpay.model.Wallet;
-import igor.abreu.picpay.model.dto.CreateWalletDTO;
+import igor.abreu.picpay.model.dto.wallet.CreateWalletDTO;
 import igor.abreu.picpay.repository.WalletRepository;
 import org.springframework.stereotype.Service;
 

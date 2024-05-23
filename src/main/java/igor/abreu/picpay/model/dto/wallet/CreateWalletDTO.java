@@ -1,4 +1,4 @@
-package igor.abreu.picpay.model.dto;
+package igor.abreu.picpay.model.dto.wallet;
 
 import igor.abreu.picpay.model.Wallet;
 import igor.abreu.picpay.model.WalletType;

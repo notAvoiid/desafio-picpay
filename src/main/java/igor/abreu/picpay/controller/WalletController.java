@@ -1,7 +1,7 @@
 package igor.abreu.picpay.controller;
 
 import igor.abreu.picpay.model.Wallet;
-import igor.abreu.picpay.model.dto.CreateWalletDTO;
+import igor.abreu.picpay.model.dto.wallet.CreateWalletDTO;
 import igor.abreu.picpay.service.WalletService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;

@@ -13,3 +13,10 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
+
+
+client:
+  notification-service:
+    url: https://run.mocky.io/v3/9f59438d-a59d-4d65-9345-756d7cd36305
+  authorization-service:
+    url: https://run.mocky.io/v3/939e0fc6-798e-4260-b693-28c764e44146
